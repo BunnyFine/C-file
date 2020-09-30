@@ -88,3 +88,5 @@ void mergesort(int arr[], int l, int h)
     merge(arr, l, m, h);
   }
 }
+
+//It is of O(n log n) complexity.
